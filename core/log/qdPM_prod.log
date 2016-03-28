@@ -1,0 +1,2 @@
+Mar 28 09:37:47 symfony [err] {sfError404Exception} Action "uploads/users" does not exist.
+Mar 28 09:44:48 symfony [err] {sfError404Exception} Action "uploads/users" does not exist.

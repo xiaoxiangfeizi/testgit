@@ -1,0 +1,11 @@
+  
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=checck;host=localhost'
+      username: root
+      password: "<?php echo urlencode('') ; ?>"
+      attributes:
+        quote_identifier: true  
+  
